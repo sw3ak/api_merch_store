@@ -1,0 +1,42 @@
+[
+    {
+      "type": "t-shirt",
+      "quantity": 80
+    },
+    {
+      "type": "cup",
+      "quantity": 20
+    },
+    {
+      "type": "book",
+      "quantity": 50
+    },
+    {
+      "type": "pen",
+      "quantity": 10
+    },
+    {
+      "type": "powerbank",
+      "quantity": 200
+    },
+    {
+      "type": "hoody",
+      "quantity": 300
+    },
+    {
+      "type": "umbrella",
+      "quantity": 200
+    },
+    {
+      "type": "socks",
+      "quantity": 10
+    },
+    {
+      "type": "wallet",
+      "quantity": 50
+    },
+    {
+      "type": "pink-hoody",
+      "quantity": 500
+    }
+]
