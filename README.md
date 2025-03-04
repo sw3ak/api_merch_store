@@ -2,7 +2,7 @@
 "docker-compose up"
 
 Сброс всех действий:
-"docker-compose down -v --remove-orphans",
+"docker-compose down -v --remove-orphans", 
 "docker rmi $(docker images -q)"
 
 После запуска желательно создать суперпользователя:
